@@ -23,7 +23,8 @@ How to,
                   "${weight.toStringAsFixed(2)} $unit"),
 
     - Use gradient colors 
-              import 'package:flutter/material.dart';
+    - use required name parameters, this keyword 
+    -Oop concept
 
 class GradientBtn extends StatelessWidget {
   const GradientBtn({super.key, required this.topColor, required this.bottomColor, required this.btnHeight, required this.btnWidth, required this.btnText});
